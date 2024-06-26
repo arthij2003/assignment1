@@ -1,0 +1,176 @@
+1.How does the internet works?
+The internet connects devices globally through a network of servers and routers, using data packets and IP addresses to send and receive information. When you request a webpage, your device communicates with a server to display the content on your screen.
+
+2.How does the browser work?
+
+Browsers are responsible for retrieving and displaying web content to users. When a user enters a URL or clicks on a link, the browser initiates a complex series of actions to retrieve the web content from a server and display it on the user’s device.
+
+3.What is server?
+A server is a  computer that stores, manages, and provides data or services to other computers over a network, like delivering websites to your browser.
+
+4.what are the types of server available?
+types of servers available are :-
+Web Server: Hosts websites and delivers web pages to browsers.
+File Server: Stores and manages files for network access.
+Database Server: Provides database services and handles database queries.
+Mail Server: Manages and stores email messages.
+Application Server: Runs applications and provides application services to users.
+Proxy Server: Acts as an intermediary between a user and the internet for security and performance.
+FTP Server: Facilitates the transfer of files between computers.
+DNS Server: Translates domain names into IP addresses.
+
+5.What is SEO and importance of SEO?
+SEO (Search Engine Optimization) is the process of improving a website to make it more visible in search engine results.
+Importance of SEO are:-
+Increases Visibility
+Enhances Credibility
+Cost-Effective
+Improves User Experience
+
+6.What is Accessibility?
+Accessibility means making things usable for everyone, including people with disabilities. This involves designing websites, apps, and other tools so that anyone,can use them easily. This includes making websites and apps usable for people with visual, auditory, physical impairments.
+
+7.What is Markup Language?
+A markup language is a set of rules for defining structure and presentation and layout of text should appear in the document.which is used to create and format web pages, which is used to store data.Describing the content(both side adding tag)with consistency the common tag we use.
+
+8.What is HTML?
+HTML (HyperText Markup Language) is the standard language used to create and design web pages. It defines the structure and layout of content on a webpage, using tags to indicate headings, paragraphs, links, images, and other elements.
+
+9.What is browser engine?
+A browser engine is like the brain of a web browser. It reads web pages written in HTML, applies styles, runs interactive features using JavaScript, and arranges everything so you can see and use websites on your screen.
+Examples of browser engines include Blink (used in Chrome and Edge), WebKit (used in Safari), and Gecko (used in Firefox).
+
+10.What is rendering engine? share the available rendering engine?
+A rendering engine, also known as a layout engine, is responsible for rendering (displaying) the content of web pages. It interprets HTML, applies CSS styles, executes JavaScript, and formats the content for display in a web browser.
+Here are some commonly used rendering engines:
+1.Blink: Used in Google Chrome and Microsoft Edge
+2.WebKit: Used in Apple's Safari browser.
+3.Gecko: Used in Mozilla Firefox.
+4.Trident: Previously used in older versions of Microsoft Internet Explorer.
+5.EdgeHTML: Previously used in Microsoft Edge before switching to Blink.
+
+11.What is JavaScript Engine? share the available JS engine? Purpose of JS Engine?
+A JavaScript engine is a computer program that executes JavaScript code and converts it into computer understandable language.
+Its purpose is to interpret and execute JavaScript instructions written in web pages or applications.
+1.Execution: It translates and executes JavaScript code written in web pages or applications.
+2.Optimization: It optimizes code for better performance by analyzing and compiling JavaScript into efficient machine code.
+3.Interoperability: It ensures JavaScript can interact with other web technologies like HTML and CSS
+
+Here are some widely used JavaScript engines:
+V8: Developed by Google, used in Chrome and Node.js.
+SpiderMonkey: Developed by Mozilla, used in Firefox.
+JavaScriptCore: Developed by Apple, used in Safari.
+Chakra: Developed by Microsoft, used in older versions of Microsoft Edge.
+ChakraCore: An open-source version of Chakra, used in some applications and platforms.
+
+12.How website works?
+Websites work by storing files on servers. When you type a web address, your browser requests these files, which are then sent back, interpreted, and displayed on your screen as a complete webpage.
+
+13.What is Data Structure?
+Data structure is a way to organize or store data so that a computer can quickly and efficiently access and modify it.It defines the relationship between data elements and allows operations to be performed on the data.
+
+14.Explain Tree Data Structure?
+A tree data structure organizes data in a hierarchical way, resembling a tree with a root node and branches.typically used to represent hierarchical relationships between data elements. 
+
+ Root
+ └── Child1
+ │   ├── Grandchild1
+ │   └── Grandchild2
+ └── Child2
+     ├── Grandchild3
+     └── Grandchild4
+
+15.What is user agent? share the list and its purpose?
+User agents are an essential component of the web ecosystem, enabling users to access and interact with online content and services in a convenient and secure manner.
+It identifies the software and device (such as a web browser or crawler) accessing a network resource. 
+purpose of user agent are:-
+Identification: It helps servers identify the type of client making a request, such as a web browser, search engine crawler, or automated script.
+Compatibility: It allows servers to serve different content or stylesheets based on the capabilities of the client device or software.
+Security: They can aid in security measures by allowing or restricting access based on the type of client.
+List of user agent:-
+Web Browsers , chatbot , screen reader, google bot.
+
+16.What is HyperText ?
+"Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people.
+
+17.What is HTML Tags?
+HTML tags are enclosed in angle brackets < > and usually come in pairs—a start tag and an end tag—surrounding content to which they apply.
+An HTML tag generally consists of:
+Opening Tag: The start of an element, represented by <tagname>.
+Closing Tag: The end of an element, represented by </tagname>. 
+
+18.What is HTML Attributes?
+HTML attributes provide additional information about HTML elements. They are used within the opening tag of an element and are typically in name/value pairs.
+
+19.What is HTML Elements?
+An HTML element is a unit of content in an HTML document that is represented by tags, typically enclosed in angle brackets (< >).
+example:- <<h1>My First Heading</h1>
+
+20.How do convert elements to tree?
+Converting elements into a tree structure involves organizing and representing hierarchical relationships between elements. This process is fundamental in various computer science applications, especially in data structures and parsing.
+Example:-
+div----------> ROOT NODE
+-------------------------
+├── h1
+├── p    (children of div)
+└── ul
+-------------------------   
+    ├── li
+    └── li  (children of ul)
+-------------------------   
+           
+21.What is DOCTYPE?
+DOCTYPE (Document Type Declaration) is an instruction that specifies the type and version of HTML (or other markup language) used in a web document. It is an important part of HTML documents as it informs web browsers about the version of HTML in use and helps ensure proper rendering of the content. 
+Example:- <!DOCTYPE html>
+
+22.What are the ways we can save html file?
+Text Editor:
+1.Open a text editor (like Notepad, Sublime Text, Visual Studio Code, etc.) 
+Write or paste your HTML code into the editor.
+Save the file using the "Save" or "Save As" option in the File menu. 
+Choose a location on your computer and specify the file name with a .html extension (e.g., index.html).
+2.Browser Save Option:
+If you have an HTML document displayed in your web browser that you want to save:
+Right-click anywhere on the page (or use the browser's menu).
+Select "Save As" or a similar option.
+3.HTML Editors and Online Tools:
+Online HTML editors or specific HTML editing software may have their own save functionalities, allowing you to save directly from within the tool.
+
+23.What is charset? why we need to use this?
+charset (character set) refers to the encoding standard that defines how characters are represented and interpreted by computers.or it is a set of supported characters(number,letter)etc.
+The charset attribute specifies the character encoding for the HTML document. 
+Example:- <meta charset="UTF-8">
+
+24.What is meta data? what is the purpose of it?
+Metadata refers to data that provides information about other data.metadata is typically information about the HTML document itself.
+Purpose of meta data are:-
+Informational
+SEO (Search Engine Optimization)
+Browser Behavior
+
+25.Explain Web Application Architecture?
+User:-Represents the end-users who interact with the web application through their web browsers or mobile devices.
+Users access the frontend interface, input data, interact with elements (buttons, forms), and receive responses from the application.
+
+Frontend:-The client-side interface that users interact with directly.
+Technologies: HTML, CSS, JavaScript, and frontend frameworks/libraries (React, Angular, Vue.js).
+
+Backend:-Handles business logic, processes requests from the frontend, interacts with the database, and prepares responses to send back to the frontend.
+Technologies: Server-side programming languages (Node.js, Python, Java, PHP, etc.), frameworks (Express.js, Django, Spring Boot, Laravel), and middleware.              
+
+Database:-Stores and manages data required by the web application.
+Technologies: SQL databases (MySQL)
+
+Web Server:-Handles incoming HTTP requests from clients (browsers), routes them to the appropriate backend services, and manages the flow of data between frontend, backend, and database.
+
+File System:-Stores static assets (HTML files, images, CSS, JavaScript) 
+
+
+
+
+
+
+
+
+
+
