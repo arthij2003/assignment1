@@ -1,0 +1,54 @@
+RESUME
+----------------
+Aarthi J
+Master of Computer Application (currently pursing)
+Email: arthihari@gmail.com
+contact: 8798798712
+
+Objective:
+To achieve a thorough understanding of advanced concepts in computer science and ensuring to gain expertise in multiple programming languages and  enhancing my technical proficiency.
+
+Education:
+Master's in computer application (pursuing)
+2023 - 2025
+Jyotinivas College Autonomus
+Bangalore
+
+Bachelor's in computer application(BCA)
+2020 - 2023
+IZEE college of information and science
+Bangalore
+
+PUC
+2018 - 2020
+St.Francis de Sales PU college
+Bangalore
+
+SSLC
+2017 - 2018
+Little Angel's English High School
+Bangalore
+
+Skills
+C, C++, java
+Data Structure and algorithms
+web technology:HTML,CSS,javascript 
+
+Projects:
+Title: Portfolio Website
+Technology: HTML, CSS, JavaScript,MySQL
+Tool: Visual Studio Code
+
+Title: College Entrance Exam
+Technology: HTML, CSS, JavaScript,MySQL
+Tool: Visual Studio Code
+
+Languages Known:
+English
+Tamil
+Kannada
+
+Declaration:
+I hereby declare that above details are true to the best of my knowledge and belief
+
+
